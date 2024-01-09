@@ -3,6 +3,7 @@
   I'm a frontend developer working with modern Javascript frameworks(Angular, React).
 
   🔭 I’m currently working on 
+  <br>
   Small project created by React.js:
   https://codesandbox.io/p/sandbox/profile-card-95jwyw?file=%2Fsrc%2Findex.js%3A45%2C25
 
