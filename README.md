@@ -5,8 +5,10 @@
   🔭 I’m currently working on 
   <br>
   Small project created by React.js:
+  <br>
   https://codesandbox.io/p/sandbox/profile-card-95jwyw?file=%2Fsrc%2Findex.js%3A45%2C25
 
 
 🌱 I’m currently learning
+<br>
 React.js
