@@ -6,19 +6,19 @@
   <br>
   Small projects created by React.js:
   <br>
-  https://codesandbox.io/p/sandbox/profile-card-95jwyw?file=%2Fsrc%2Findex.js%3A45%2C25
+  https://codesandbox.io/p/sandbox/profile-card-95jwyw
   <br>
-  https://codesandbox.io/p/sandbox/date-counter-8zqj4c?file=%2Fsrc%2FApp.js
+  https://codesandbox.io/p/sandbox/date-counter-8zqj4c
   <br>
   https://codesandbox.io/p/sandbox/date-counter-2-ydhwzw
   <br>
-  https://codesandbox.io/p/sandbox/flashcards-yfvss5?file=%2Fsrc%2FApp.js%3A50%2C48
+  https://codesandbox.io/p/sandbox/flashcards-yfvss5
   <br>
-  https://codesandbox.io/p/sandbox/accordion-8typqw?file=%2Fsrc%2FApp.js%3A50%2C20-50%2C27
+  https://codesandbox.io/p/sandbox/accordion-8typqw
   <br>
-  https://codesandbox.io/p/sandbox/accordion-2-64kxyd?file=%2Fsrc%2FApp.js%3A64%2C31
+  https://codesandbox.io/p/sandbox/accordion-2-64kxyd
   <br>
-  https://codesandbox.io/p/sandbox/tip-calculator-yzxgrd?file=%2Fsrc%2FApp.js
+  https://codesandbox.io/p/sandbox/tip-calculator-yzxgrd
   <br>
   https://codesandbox.io/p/sandbox/text-expander-6l9z7w
   <br> <br>
