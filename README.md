@@ -20,7 +20,7 @@
   <br>
   https://codesandbox.io/p/sandbox/tip-calculator-yzxgrd?file=%2Fsrc%2FApp.js
   <br>
-  https://codesandbox.io/p/sandbox/react-challenge-text-expander-starter-forked-6l9z7w
+  https://codesandbox.io/p/sandbox/text-expander-6l9z7w
   <br> <br>
 🌱 I’m currently learning
 <br>
