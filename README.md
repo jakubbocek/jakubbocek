@@ -21,7 +21,3 @@
   https://codesandbox.io/p/sandbox/tip-calculator-yzxgrd
   <br>
   https://codesandbox.io/p/sandbox/text-expander-6l9z7w
-  <br> <br>
-🌱 I’m currently learning
-<br>
-React.js
