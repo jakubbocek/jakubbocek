@@ -1,6 +1,6 @@
 ### Hi there 👋 I´am Jakub
 
-  I'm a frontend developer working with modern Javascript framework Angular.
+  I'm a frontend developer.
 
   🔭 I’m currently working on 
   <br>
